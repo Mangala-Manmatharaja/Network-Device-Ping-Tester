@@ -10,3 +10,11 @@ def ping_device(ip):
 # ------ Read devices from file -------
 with open('devices.txt', 'r') as f:
     devices = [line.strip() for line in f]
+
+# ----- Ping and save results
+with open('ping_results.txt', 'w') as f:
+    for ip in devices:
+        status = ping_device(ip)
+        print(f"{ip}: {status}")
+        f.write(f"{ip}: {status}\n")
+print("Results saved to ping_results.txt")
