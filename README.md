@@ -64,5 +64,4 @@ MIT License — feel free to use, modify, and share with credit.
 
 ✍️ Author
 
-Mangala ManmatharajaGitHub Profile
-
+Mangala Manmatharaja
