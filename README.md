@@ -16,7 +16,7 @@ Simple and lightweight for learning network monitoring
 
 💪 Requirements
 
-Python 3.x
+Python 3.x version
 
 This script uses Python's built-in modules:
 
