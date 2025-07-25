@@ -1,4 +1,4 @@
-🔍 Network Device Ping Te
+🔍 Network Device Ping Tes
 This is a basic Python-based ping tester that checks the status of network devices (e.g., routers, servers) by pinging their IP addresses and logs the results to a text file. Perfect for educational purposes or ethical network monitoring.
 
 📌 Features
