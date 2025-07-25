@@ -1,12 +1,6 @@
 # 🔍 Network Device Ping Tester
 This is a basic Python-based ping tester that checks the status of network devices (e.g., routers, servers) by pinging their IP addresses and logs the results to a text file. Perfect for educational purposes or ethical network monitoring.
 
-📌 Features
-
-Ping multiple network devices from a list of IPs
-Detects if devices are UP, DOWN, or return an ERROR# 🔍 Network Device Ping Tester
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A simple Python-based ping tester that checks the status of network devices (e.g., routers, servers) by pinging their IP addresses and logging the results to a text file. Perfect for educational use or ethical network monitoring.
 
@@ -99,7 +93,7 @@ Results saved to ping_results.txt
 Sample ping_results.txt:
 127.0.0.1: UP
 8.8.8.8: UP
-
+  
 
 📄 License
 MIT License — feel free to use, modify, and share with credit.
